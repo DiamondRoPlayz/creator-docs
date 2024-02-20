@@ -30,6 +30,8 @@ description: |
   servers or user count. Exceeding these limits returns a
   `429 Too Many Requests` error.
 
+  Tests conducted by @DiamondRoPlayz in one server resulted in 60 requests per minute being sent to any of the `AvatarEditorService` endpoints.
+
   If you find that your experience requires an adjustment to this throttling,
   you can submit a
   [feature request](https://devforum.roblox.com/t/how-to-post-a-feature-request/37232).
